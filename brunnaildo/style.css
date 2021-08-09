@@ -170,7 +170,8 @@ background-size: 100%;
   margin-right: .5rem;
   color: #f0dbe4; /* fonte rosa-branca do botao */
   font-size: .7rem;
-  background-color: #767f3f;
+  /*background-color: #767f3f;  botao verde */
+  background: linear-gradient(45deg, #767f3f, #859157);
   border-radius: 1em;
 }
 
