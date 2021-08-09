@@ -168,9 +168,9 @@ background-size: 100%;
   justify-content: center;
   align-items: center;
   margin-right: .5rem;
-  color: #1d252c;
+  color: #f0dbe4; /* fonte rosa-branca do botao */
   font-size: .7rem;
-  background-color: #1261A0;
+  background-color: #767f3f;
   border-radius: 1em;
 }
 
