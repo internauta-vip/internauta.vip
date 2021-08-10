@@ -227,3 +227,7 @@ background-size: 100%;
   transform: translateY(-10px) scale(1.1);
   filter: brightness(110%);
 }
+
+a:visited {
+  color: #f0dbe4;
+}
